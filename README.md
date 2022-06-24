@@ -1,4 +1,4 @@
-### Oi! Eu sou o Thailon Dorneles
+### Oi! Eu sou o Thailon.
 
 <div align="center">
   <a href="https://github.com/Thailon74">
