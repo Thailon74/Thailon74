@@ -1,25 +1,27 @@
-# Hi, I'm Thailon 👋
+# Hi, I'm Thailon 
 
 Software Developer with experience in enterprise application development, database programming, systems integration, and business process automation. Passionate about software engineering, continuous learning, and building efficient solutions that generate real business value.
 
-<p aling=left>
-    
-    <a📍 Dubai, UAE></a>
-    <a 📧 thailon74@gmail.com  |  
-    <label> 🔗 LinkedIn </label>
-</p>
+ 📍 Dubai, UAE  |  📧 thailon74@gmail.com  |  [🔗 LinkedIn ](https://www.linkedin.com/in/thailondorneles/)
+
 ---
 
 
-🚀 About Me
+### 🚀 About Me
 
 
-💻 Currently working as a Software Engineer at Unimed Central (Canoas - Brazil)
-🎓 Pursuing a Postgraduate degree in Software Engineering at PUC Minas
-🌐 Experienced with React, Node, PL/SQL, Oracle APEX, Oracle Forms, and REST/SOAP integrations
-🛠️ Focused on full-stack development, process automation, and systems integration
-📈 Actively looking for new opportunities as a Full Stack Developer, with a Front-end/React focus
+💻 Currently working as a Software Engineer at Unimed Central (Canoas - Brazil);
+<br/>
+🎓 Pursuing a Postgraduate degree in Software Engineering at PUC Minas;
+<br/>
+🌐 Experienced with React, Node, PL/SQL, Oracle APEX, Oracle Forms, and REST/SOAP integrations;
+<br/>
+🛠️ Focused on full-stack development, process automation, and systems integration;
+<br/>
+📈 Actively looking for new opportunities as a Full Stack Developer, with a Front-end/React focus;
+<br/>
 
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -97,23 +99,3 @@ Software Developer with experience in enterprise application development, databa
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Thailondorneles&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thailondorneles&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
