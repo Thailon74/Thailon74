@@ -2,8 +2,12 @@
 
 Software Developer with experience in enterprise application development, database programming, systems integration, and business process automation. Passionate about software engineering, continuous learning, and building efficient solutions that generate real business value.
 
-📍 Dubai, UAE  |  📧 thailon74@gmail.com  |  🔗 LinkedIn
-
+<p aling=left>
+    
+    <a📍 Dubai, UAE></a>
+    <a 📧 thailon74@gmail.com  |  
+    <label> 🔗 LinkedIn </label>
+</p>
 ---
 
 
@@ -48,7 +52,7 @@ Software Developer with experience in enterprise application development, databa
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -56,7 +60,7 @@ Software Developer with experience in enterprise application development, databa
     title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -64,7 +68,7 @@ Software Developer with experience in enterprise application development, databa
     title="Oracle"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
 <img 
     align="left" 
@@ -72,15 +76,7 @@ Software Developer with experience in enterprise application development, databa
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="Oracle APEX" 
-    title="Oracle APEX"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/-Oracle%20APEX-F80000?style=flat-square&logo=oracle&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <img 
     align="left" 
@@ -88,23 +84,7 @@ Software Developer with experience in enterprise application development, databa
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="API Rest" 
-    title="API Rest"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/-REST%20API-005571?style=flat-square" 
-/>
-<img 
-    align="left" 
-    alt="SOAP/XML" 
-    title="SOAP/XML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/-SOAP%2FXML-0089D6?style=flat-square" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -112,7 +92,7 @@ Software Developer with experience in enterprise application development, databa
     title="Jira"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" 
 />
 
 <br/>
